@@ -7,7 +7,6 @@ todo
 npm-debug.log
 README.html
 generated
-lib/
 .DS_Store
 
 test/unit/perf-buffer.coffee
